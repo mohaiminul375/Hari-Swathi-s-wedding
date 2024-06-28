@@ -12,3 +12,5 @@
 - tailwind Css
 - Daisy UI
 - react icons
+- react scroll
+- react awesome revel
