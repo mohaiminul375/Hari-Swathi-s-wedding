@@ -1,6 +1,6 @@
 # Hari & Swathi's wedding
 - simple react landing page.
-# Live URL:
+# Live URL: https://hari-swati-wedding.netlify.app
 
 # Installation process
 - npm i for install dependencies
