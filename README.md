@@ -3,7 +3,8 @@
 # Live URL:
 
 # Installation process
-
+- npm i for install dependencies
+- npm run dev for run on localhost
 
 # Npm and Packages
 - vite
